@@ -27,7 +27,7 @@ PROBLEM 2
 
   Necessary requirements
 
-  -Jupyter Notebook
+  - Jupyter Notebook
 
   - Anaconda Navigator
 
